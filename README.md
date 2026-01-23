@@ -35,11 +35,6 @@ Feel free to connect — I love meeting people who share a passion for technolog
 
 ---
 
-## 😄 Pronouns  
-She/Her  
- 
----
-
 ## 🔗 Hot links  
 - **GitHub:** https://github.com/Marta-Molina
 - **GitLab:** https://gitlab.iesvirgendelcarmen.com/Marta-Molina
